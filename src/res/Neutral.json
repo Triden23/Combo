@@ -1,0 +1,74 @@
+{
+  "ToNeutral": {
+    "Tekken8": {
+      "Movement": "Words",
+      "Attack": "Numeric",
+      "Neutral": "Neutral",
+      "DPAD_NORTH": "Up",
+      "DPAD_NORTHEAST": "Up Forward",
+      "DPAD_EAST": "Forward",
+      "DPAD_SOUTHEAST": "Down Forward",
+      "DPAD_SOUTH": "Down",
+      "DPAD_SOUTHWEST": "Down Back",
+      "DPAD_WEST": "Back",
+      "DPAD_NORTHWEST": "Up Back",
+      "NORTH_BUTTON": "2",
+      "EAST_BUTTON": "4",
+      "SOUTH_BUTTON": "3",
+      "WEST_BUTTON": "1"
+    },
+    "BlazeBlue": {
+      "Movement": "Numeric",
+      "Attack": "Words",
+      "Neutral": "5",
+      "DPAD_NORTH": "8",
+      "DPAD_NORTHEAST": "9",
+      "DPAD_EAST": "6",
+      "DPAD_SOUTHEAST": "3",
+      "DPAD_SOUTH": "2",
+      "DPAD_SOUTHWEST": "1",
+      "DPAD_WEST": "4",
+      "DPAD_NORTHWEST": "7",
+      "NORTH_BUTTON": "B",
+      "EAST_BUTTON": "D",
+      "SOUTH_BUTTON": "C",
+      "WEST_BUTTON": "A"
+    }
+  },
+  "FromNeutral": {
+    "Tekken8": {
+      "Numeric": "Attack",
+      "Words": "Movement",
+      "Neutral": "Neutral",
+      "Up": "DPAD_NORTH",
+      "Up Forward": "DPAD_NORTHEAST",
+      "Forward": "DPAD_EAST",
+      "Down Forward": "DPAD_SOUTHEAST",
+      "Down": "DPAD_SOUTH",
+      "Down Back": "DPAD_SOUTHWEST",
+      "Back": "DPAD_WEST",
+      "Up Back": "DPAD_NORTHWEST",
+      "2": "NORTH_BUTTON",
+      "4": "EAST_BUTTON",
+      "3": "SOUTH_BUTTON",
+      "1": "WEST_BUTTON"
+    },
+    "BlazeBlue": {
+      "Numeric": "Movement",
+      "Attack": "Words",
+      "5": "Neutral",
+      "8": "DPAD_NORTH",
+      "9": "DPAD_NORTHEAST",
+      "6": "DPAD_EAST",
+      "3": "DPAD_SOUTHEAST",
+      "2": "DPAD_SOUTH",
+      "1": "DPAD_SOUTHWEST",
+      "4": "DPAD_WEST",
+      "7": "DPAD_NORTHWEST",
+      "B": "NORTH_BUTTON",
+      "D": "EAST_BUTTON",
+      "C": "SOUTH_BUTTON",
+      "A": "WEST_BUTTON"
+    }
+  }
+}
